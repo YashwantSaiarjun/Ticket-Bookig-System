@@ -1,0 +1,91 @@
+SAMPLE OUTPUT 1:
+
+
+-------------------------------------------------------------------
+                       TICKET BOOKING SYSTEM
+-------------------------------------------------------------------
+
+               WELCOME THERE...! BOOK YOUR TICKETS...!
+
+-------------------------------------------------------------------
+BOARDING POINTS AVAILABE : beach,central,mount,tbm,chen
+-------------------------------------------------------------------
+
+Enter your boarding point : tbm
+
+-------------------------------------------------------------------
+DESTINATIONS AVAILABLE : beach,central,mount,chen
+-------------------------------------------------------------------
+
+Enter your destination : central
+
+Enter the number of passenger :6
+
+-------------------------------------------------------------------
+Boarding point : tbm               Destination : central
+
+
+Ticket price: Rs 20
+
+TOTAL PRICE : 120.0
+
+Press 'P' to print ticket : P
+printing......
+
+
+
+
+###################################################################
+    Boarding point: tbm                 Destination: central
+    No of passenger: 6
+    Total price : Rs 120.0
+###################################################################
+
+
+
+
+SAMPLE OUTPUT 2:
+
+
+-------------------------------------------------------------------
+                       TICKET BOOKING SYSTEM
+-------------------------------------------------------------------
+
+               WELCOME THERE...! BOOK YOUR TICKETS...!
+
+-------------------------------------------------------------------
+BOARDING POINTS AVAILABE : beach,central,mount,tbm,chen
+-------------------------------------------------------------------
+
+Enter your boarding point : beach
+
+-------------------------------------------------------------------
+DESTINATIONS AVAILABLE : central,mount,tbm,chen
+-------------------------------------------------------------------
+
+Enter your destination : mount
+
+Enter the number of passenger :6
+
+-------------------------------------------------------------------
+Boarding point : beach               Destination : mount
+
+
+Ticket price: Rs 20
+
+TOTAL PRICE : 120.0
+
+Press 'P' to print ticket : P
+printing......
+
+
+
+
+###################################################################
+    Boarding point: beach                 Destination: mount
+    No of passenger: 6
+    Total price : Rs 120.0
+###################################################################
+
+
+
